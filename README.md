@@ -1,1 +1,1 @@
-# https://elenakrutova.github.io/www/index.html
+# https://elenakrutova.github.io/www/gh-pages/index.html
