@@ -1,0 +1,32 @@
+header{
+    background-color: orange;
+    height: 63px;
+    width: 1024px;
+    position: absolute;
+    color: #FF4500;
+    text-align: center;
+}
+.personality{
+    position: absolute;
+    left:600px;
+    top:100px;
+    color: #FF4500;
+}
+.photo{
+    position: absolute;
+    left:100px;
+    top:100px;
+    border-radius: 50%;
+}
+.info{
+    position: absolute;
+    left:200px;
+    top:300px;
+    color: #FF4500;
+
+}
+.footer{
+    background: orange;
+    height: 63px;
+    width: 1020px;
+}
